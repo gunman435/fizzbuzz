@@ -4,13 +4,14 @@ The standard FizzBuzz tests written in multiple languages with mutliple adaptati
 ### Done:
 - LUA
     - Basic LUA
+- C#
+    - Basic C#
 
 ### TODO:
 - LUA
     - Love2D (https://love2d.org/)
     - GLua (https://wiki.garrysmod.com/page/Main_Page)
 - C#
-    - Basic C#
     - Unity Engine (https://unity3d.com/)
 - JavaScript
     - Basic JavaScript
