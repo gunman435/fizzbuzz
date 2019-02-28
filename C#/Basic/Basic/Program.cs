@@ -28,7 +28,7 @@ namespace Basic
         /// <param name="args">Array of console arguments</param>
         static void Main(string[] args)
         {
-            for (int i = 0; i <= maxNumber; i++)
+            for (int i = 1; i <= maxNumber; i++)
             {
                 string output = "";
 
