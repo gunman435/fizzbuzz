@@ -1,0 +1,24 @@
+body {
+    background: black;
+    color: white;
+}
+
+#title {
+    text-align: left;
+    margin-left: 100px;
+}
+
+#data {
+    text-align: left;
+    color: black;
+}
+
+#fizzbuzz-data {
+    background: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    height: 400px;
+    width: 400px
+}
