@@ -8,6 +8,7 @@ The standard FizzBuzz tests written in many languages with mutliple adaptations.
     - Basic C#
 - JavaScript
     - Basic JavaScript
+    - HTML + CSS + JavaScript
 - PHP
     - Basic PHP
     - HTML + CSS + JavaScript + PHP
@@ -18,5 +19,3 @@ The standard FizzBuzz tests written in many languages with mutliple adaptations.
     - GLua (https://wiki.garrysmod.com/page/Main_Page)
 - C#
     - Unity Engine (https://unity3d.com/)
-- JavaScript
-    - HTML + CSS + JavaScript
