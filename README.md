@@ -10,7 +10,7 @@ The standard FizzBuzz tests written in many languages with mutliple adaptations.
     - Basic JavaScript
 - PHP
     - Basic PHP
-    - HTML + CSS + JS + PHP
+    - HTML + CSS + JavaScript + PHP
 
 ### TODO:
 - LUA
