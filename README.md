@@ -6,6 +6,10 @@ The standard FizzBuzz tests written in multiple languages with mutliple adaptati
     - Basic LUA
 - C#
     - Basic C#
+- JavaScript
+    - Basic JavaScript
+- PHP
+    - Basic PHP
 
 ### TODO:
 - LUA
@@ -14,8 +18,6 @@ The standard FizzBuzz tests written in multiple languages with mutliple adaptati
 - C#
     - Unity Engine (https://unity3d.com/)
 - JavaScript
-    - Basic JavaScript
     - HTML + CSS + JavaScript
 - PHP
-    - Basic PHP
     - HTML + CSS + PHP
