@@ -19,4 +19,4 @@ The standard FizzBuzz tests written in many languages with mutliple adaptations.
 - C#
     - Unity Engine (https://unity3d.com/)
 - JavaScript
-    - HTML + CSS + JavaScript
+    - HTML + CSS + JS
